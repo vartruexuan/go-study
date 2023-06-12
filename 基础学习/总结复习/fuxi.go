@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../src/packk"
+	"./src/packk"
 	"fmt"
 	"reflect"
 )
